@@ -1,0 +1,165 @@
+END
+iron
+stick
+rst
+furnace
+sstone
+inug
+rsd
+craft
+drop
+string
+hook
+spp
+flint
+chest
+cobble
+plank
+stone
+iblock
+_
+
+St iron A
+St iblock B
+St stick C
+St plank D
+St _ E
+A stick F
+A iron G
+A _ H
+B iblock I
+C iron J
+D plank K
+D iron L
+E _ M
+E inug N
+E iron O
+F iron P
+G iron Q
+G _ R
+H iron S
+I iblock T
+J stick U
+K plank V
+L plank W
+M _ X
+N _ Y
+O _ Z
+P iron A2
+Q iron B2
+Q _ C2
+R plank D2
+R _ E2
+R iron F2
+S iron G2
+T _ H2
+U string I2
+V cobble J2
+W plank K2
+X iron L2
+X _ M2
+Y _ N2
+Z iron O2
+Z _ P2
+A2 rst Q2
+B2 furnace R2
+B2 iron S2
+B2 craft T2
+B2 _ U2
+C2 stick V2
+D2 plank W2
+E2 stick X2
+F2 stick Y2
+F2 iron Z2
+G2 _ A3
+G2 spp B3
+G2 chest C3
+G2 iron D3
+G2 stick E3
+H2 iron F3
+I2 hook G3
+J2 iron H3
+K2 plank I3
+L2 iron J3
+L2 _ K3
+L2 flint L3
+M2 iron M3
+N2 iron N3
+O2 rsd O3
+P2 stick P3
+P2 iron Q3
+Q2 iron C7
+R2 iron G7
+S2 iron Q7
+T2 iron F7
+U2 iron D7
+V2 _ B7
+W2 _ J7
+X2 _ B7
+Y2 _ B7
+Z2 _ M7
+A3 iron A7
+B3 iron E7
+C3 iron O7
+D3 iron A7
+E3 iron D7
+F3 _ A7
+G3 string B7
+H3 cobble I7
+I3 plank P7
+J3 _ R7
+J3 iron D7
+K3 iron S7
+L3 _ K7
+M3 _ T7
+N3 _ N7
+O3 iron O7
+P3 _ U7
+Q3 _ B7
+A7 iron A8
+B7 _ B8
+C7 iron C8
+D7 iron D8
+E7 iron E8
+F7 rsd F8
+G7 sstone G8
+I7 cobble I8
+J7 plank J8
+K7 _ K8
+M7 iron L8
+N7 _ M8
+O7 _ L8
+P7 _ J8
+Q7 iron A8
+Q7 _ K8
+R7 iron L8
+R7 _ K8
+S7 _ L8
+S7 iron N8
+T7 stone H8
+T7 iron K8
+T7 _ K8
+U7 _ O8
+A8 iron A9
+B8 stick B9
+C8 stick A9
+D8 _ A9
+E8 rsd A9
+F8 drop C9
+G8 sstone D9
+H8 stone E9
+I8 rsd F9
+J8 plank B9
+K8 _ B9
+L8 iron B9
+M8 inug B9
+N8 _ A9
+N8 iron A9
+O8 plank B9
+O8 stick B9
+A9 iron END
+B9 _ END
+C9 rsd END
+D9 sstone END
+E9 stone END
+F9 cobble END
