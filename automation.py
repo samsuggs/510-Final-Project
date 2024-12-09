@@ -47,16 +47,16 @@ def accept(inp):
             if j == len(transitions)-1:
                 #reject
                 print("Rejected, no transition")
-                print(output)
                 return
     #If input successfully made it to accepting state
     if curr == end:
         #accept
         print("Accepted")
-        print(output)
+        for j in range(len(output)):
+            print(f"{output[j][0]} {output[j][1]} {output[j][2]}")
     else:
         #reject otherwise
         print("Rejected")
 
-inp = input("Enter recipe here (separate each item with a space): ")
+inp = input("Enter recipe here (separate each item with a space):\n")
 accept(inp)
