@@ -1,0 +1,6 @@
+INSTRUCTIONS FOR RUNNING PYTHON PROGRAM:
+ - This runs like any other python program
+ - The best way to run this is either in a Python
+   IDE, or just type in "python automation.py" in
+   a terminal, given that you have the source code 
+   and data structure file downloaded.
