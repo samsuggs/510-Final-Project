@@ -11,5 +11,5 @@ INSTRUCTIONS FOR RUNNING PYTHON PROGRAM:
  - Input should be formatted with each item
    separated by a single space, in a left to right,
    top to bottom order
- - Ex: _ iron _ _ stick _ _ stick _ would be an
+ - Ex: "_ iron _ _ stick _ _ stick _" would be an
    accepted input (iron shovel)
