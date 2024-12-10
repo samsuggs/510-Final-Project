@@ -4,3 +4,12 @@ INSTRUCTIONS FOR RUNNING PYTHON PROGRAM:
    IDE, or just type in "python automation.py" in
    a terminal, given that you have the source code 
    and data structure file downloaded.
+ - It will ask you to enter your desired input,
+   and then it will accept/reject that input
+ - If you want to enter another input, run the
+   program again
+ - Input should be formatted with each item
+   separated by a single space, in a left to right,
+   top to bottom order
+ - Ex: _ iron _ _ stick _ _ stick _ would be a valid
+   input for an iron shovel
