@@ -8,8 +8,8 @@ INSTRUCTIONS FOR RUNNING PYTHON PROGRAM:
    and then it will accept/reject that input
  - If you want to enter another input, run the
    program again
- - Input should be formatted with each item
-   separated by a single space, in a left to right,
-   top to bottom order
- - Ex: "_ iron _ _ stick _ _ stick _" would be an
+ - Input should be formatted with a space after 
+   each item, in a left to right, top to bottom 
+   order
+ - Ex: "_ iron _ _ stick _ _ stick _ " would be an
    accepted input (iron shovel)

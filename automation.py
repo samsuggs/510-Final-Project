@@ -26,6 +26,8 @@ def accept(inp):
     #current transition, initialize it to start transition
     curr = transitions[0][0]
     inp = inp.strip()
+    #split each item by a space to get each individual
+    #alphabet symbol, excluding the space that follows the item
     inp = inp.split()
     for i in range(len(inp)):
         #see if input component in alphabet
@@ -58,5 +60,5 @@ def accept(inp):
         #reject otherwise
         print("Rejected")
 
-inp = input("Enter recipe here (separate each item with a space):\n")
+inp = input("Enter recipe here (leave a space after each item):\n")
 accept(inp)
