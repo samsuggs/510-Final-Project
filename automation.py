@@ -28,7 +28,7 @@ def accept(inp):
     inp = inp.strip()
     #split each item by a space to get each individual
     #alphabet symbol, excluding the space that follows the item
-    inp = inp.split()
+    inp = inp.split(" ")
     for i in range(len(inp)):
         #see if input component in alphabet
         if inp[i] not in alphabet:
